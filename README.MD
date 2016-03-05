@@ -2,6 +2,6 @@
 <head>
 </head>
 <body>
-<p>HELLO DEVCON, have a nice day </p>
-    </body>
+<p>This is a Sample Repo for CodeCamp</p>
+</body>
 </html>
